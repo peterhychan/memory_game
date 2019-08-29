@@ -2,7 +2,7 @@
 
 This is a basic Memory Game project as you would know it from your childhood. There are 8 pairs of cards, you win if you find all pairs in less than 70 moves. Your score is displayed in upper left corner in a form of stars and it depends on the amount of moves it took you to win the game.
 
-The live demo is [HERE]()
+The live demo is [HERE](https://peterhychan.github.io/memory_game/)
 
 ## Table of Contents
 
